@@ -1,3 +1,3 @@
 # coddingPractice
 
-# This Repo using for Codding practice for Interview
+# This Repo is used for Codding practice for the Interview
